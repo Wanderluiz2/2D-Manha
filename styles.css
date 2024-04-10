@@ -6,4 +6,11 @@
     background-color: #383d58;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+}
+.cabecalho-lista-item{
+    display: inline;
+    padding: 16px;
 }
